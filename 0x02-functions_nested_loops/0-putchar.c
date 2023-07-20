@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * main - prints _putchar, followed by a new line. Xxlu CP
+ * main - prints _putchar, followed by a new line.
+ * CP from 'xxlu27' on Github 
  * Return: Always 0.
  */
 
